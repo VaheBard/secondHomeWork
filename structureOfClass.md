@@ -20,7 +20,7 @@
 переменной добавить оператор final:  
 
 >class Test {  
->static final int String DAY-OF_WEEK = "Monday";  
+>static final int String DAY_OF_WEEK = "Monday";  
 >}  
 
 Такая переменная называется константа. Любой константе при создании должно быть присвоно значение.  
